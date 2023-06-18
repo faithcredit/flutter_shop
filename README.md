@@ -1,4 +1,4 @@
-# flutter_shop
+# flutter_meal_recipe
 
 A new Flutter project.
 
@@ -18,14 +18,12 @@ samples, guidance on mobile development, and a full API reference.
 ## Quick Run Project
 
 ```
-git clone https://github.com/faithcredit/flutter_shop.git
+git clone https://github.com/faithcredit/flutter_meal_recipe.git
 
-cd flutter_shop
+cd flutter_meal_recipe
 flutter run
 ```
 ![1](/docs/1.png)
 ![2](/docs/2.png)
 ![3](/docs/3.png)
 ![4](/docs/4.png)
-![5](/docs/5.png)
-![6](/docs/6.png)
