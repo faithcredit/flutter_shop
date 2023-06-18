@@ -36,6 +36,54 @@ class Products with ChangeNotifier {
       imageUrl:
           'assets/images/pan.jpg',
     ),
+    Product(
+      id: 'p5',
+      title: 'A Chair',
+      description: 'Comfotable and nice chair.',
+      price: 120.5,
+      imageUrl:
+          'assets/images/chair.jpg',
+    ),
+     Product(
+      id: 'p6',
+      title: 'A Sofa',
+      description: 'Comfotable and nice sofa.',
+      price: 200.55,
+      imageUrl:
+          'assets/images/sofa.jpg',
+    ),
+     Product(
+      id: 'p7',
+      title: 'Sunglasses',
+      description: 'Comforable and beautiful glasses.',
+      price: 50.99,
+      imageUrl:
+          'assets/images/sunglasses.jpg',
+    ),
+    Product(
+      id: 'p8',
+      title: 'A Watch',
+      description: 'Very good watch.',
+      price: 1000.99,
+      imageUrl:
+          'assets/images/watch.jpg',
+    ),
+    Product(
+      id: 'p9',
+      title: 'A Table',
+      description: 'Very good table.',
+      price: 300.99,
+      imageUrl:
+          'assets/images/table.jpg',
+    ),
+    Product(
+      id: 'p10',
+      title: 'A Table',
+      description: 'Very good table.',
+      price: 150.99,
+      imageUrl:
+          'assets/images/table2.jpg',
+    ),
   ];
   // var _showFavoritesOnly = false;
 
